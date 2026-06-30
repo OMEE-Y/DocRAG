@@ -1,6 +1,6 @@
 
 
-# Document RAG Chatbot Backend
+# Document RAG Chatbot 
 
 A lightweight, high-performance Retrieval-Augmented Generation (RAG) chatbot built with TypeScript, Express, and Groq. The system handles raw document parsing, indexes the text fragments locally via a keyword-based matching strategy, and leverages Groq's low-latency inference engine to synthesize contextually accurate conversational responses.
 
